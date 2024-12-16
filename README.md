@@ -15,3 +15,4 @@ The CrossXY layout was chosen for its excellent performance and ease of using 4 
 
 # Design Challenge
 The Gantry Plate was a design challenge imposed upon myself. The monolithic top plate would mean the cancelling moments of the motors would be maximized, compared to most designs nowadays using multiple extrusions, along with the stiffness benefits, and the bonuses to precision that comes with machining an entire plate in one go compared to assembling by hand. The large amount of material missing from the inside of the gantry plate is saved and used in the construction of multiple of the brackets.
+![Assembly Screenshot](Images/Plate_Volumetric.png)
