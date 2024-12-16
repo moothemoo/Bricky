@@ -1,5 +1,5 @@
 # Bricky
-Small form factor  CrossXY 3D Printer with monolithic gantry frame and (mostly) metal mounting. This is a design which is incomplete, and will most likely never be actually constructed.
+Small form factor (150mm x 150mm x 150mm) CrossXY 3D Printer with monolithic gantry frame and (mostly) metal mounting. This is a design which is incomplete, and will most likely never be actually constructed.
 
 Bricky is named for its bricklike appearance. The primary design objective in design was stiffening and vibration reduction, via large extrusions, a solid plate gantry frame, and metal bracketry. Doing so does not directly reduce vibrations, especially with the material being aluminum (rather than a cast iron), but it should significantly increase the mass and stiffness compared to an aluminum extrusion or 3D printed bracketry, which should decrease the amplitude of vibrations.
 
